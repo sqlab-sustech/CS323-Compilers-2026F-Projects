@@ -1,0 +1,2 @@
+struct A { struct B b; };
+struct B { int x; };

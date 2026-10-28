@@ -1,0 +1,2 @@
+struct A { int x; };
+int f() { struct A a; return a.x; }

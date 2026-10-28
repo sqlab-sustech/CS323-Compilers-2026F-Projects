@@ -1,0 +1,4 @@
+OK
+Struct A
+  Field x: int
+Function f(): int
